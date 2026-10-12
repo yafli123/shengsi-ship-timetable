@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "嵊泗船期出行方案查询",
+  "short_name": "嵊泗船期",
+  "description": "查询嵊泗及周边码头船期，查看直达和中转方案。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone"],
+  "orientation": "portrait",
+  "theme_color": "#0d4775",
+  "background_color": "#f4f8fb",
+  "icons": [
+    {"src":"./icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"},
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
